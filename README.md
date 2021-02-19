@@ -1,9 +1,14 @@
 # jquery.disableAutoFill
+
+### Notice: This package is abandoned, please visit [disableautofill.js](https://github.com/terrylinooo/disableautofill.js)
+
+---
+
 The easiest solution for disabling Google Chrome auto-fill, auto-complete functions.
 
 Document Transations: [English](./README.md) | [繁體中文](./docs/README_zh_TW.md) | [简体中文](./docs/README_zh_CN.md)
 
-----
+
 
 I've spent serveral hours surfing online to look for solutions in order to disable Google Chrome auto-fill, auto-complate functions such as the screenshot below. 
 
