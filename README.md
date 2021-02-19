@@ -1,7 +1,7 @@
 # jquery.disableAutoFill
 The easiest solution for disabling Google Chrome auto-fill, auto-complete functions.
 
-Document Transations: [English](./README.md) | [繁體中文](./README_zh_TW.md) | [简体中文](./README_zh_CN.md)
+Document Transations: [English](./README.md) | [繁體中文](./docs/README_zh_TW.md) | [简体中文](./docs/README_zh_CN.md)
 
 ----
 
@@ -17,19 +17,20 @@ After having tried all possible solutions I can find on Stackoverflow, howerver,
 
 ### Install
 
+#### Npm
+```
+npm install disableautofill
+```
+
+#### Bower
 ```
 bower install jquery.disableAutoFill
 ```
-```
-<script src="/[your_bower_path]/jquery.disableAutoFill/src/jquery.disableAutoFill.min.js"></script>
-```
 
-or
-
+#### CDN
 ```
-<script src="https://terrylinooo.github.io/jquery.disableAutoFill/assets/js/jquery.disableAutoFill.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/disableautofill/src/jquery.disableAutoFill.min.js"></script>
 ```
-
 
 ### Demo
 
